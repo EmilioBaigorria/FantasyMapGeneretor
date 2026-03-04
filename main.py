@@ -1,2 +1,2 @@
 print("Hola mundo")
-print("pito desde Lautaro")
+print("pito desde main")
